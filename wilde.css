@@ -40,6 +40,12 @@ color:rgb(116, 213, 243);
 .hopper{
 color:orange;
 }
+.lordWindermere{
+    color:mediumaquamarine
+}
+.lordAugustus{
+color: navy;
+}
 table {
     border: solid 2px darkslateblue ;
     width: 45%;
@@ -57,4 +63,9 @@ th, td {
 
 tr:nth-child(even) {
     background-color: lightsteelblue;
+}
+
+.name:hover {
+    text-shadow: 2px 3px 4px grey;
+    border: solid 2px dodgerblue;
 }

@@ -1,0 +1,42 @@
+.speech {
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: medium;
+    color: black;
+}
+
+.stageDirection {
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: medium;
+    color: black;
+    background-color: lightskyblue;
+}
+.stageDirection:hover {
+    background-color: lightslategrey;
+    color: darkblue;
+}
+.name {
+    font-family: Verdana, Helvetica, sans-serif;
+    font-size: medium;
+    color: black;
+}
+.duchessBerwick{
+color: rgb(78, 216, 78);
+}
+.ladyAgatha{
+color:red;
+}
+.parker{
+color:darksalmon;
+}
+.dumby{
+color:fuchsia;
+}
+.ladyStufield{
+color:royalblue;
+}
+.cowper{
+color:rgb(116, 213, 243);
+}
+.hopper{
+color:orange;
+}
